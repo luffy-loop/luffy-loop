@@ -351,6 +351,16 @@ Currently building a growing technical portfolio across:
 ---
 ---
 
+# Contribution Calendar
+
+<div align="center">
+
+<img src="./assets/contribution-calendar.svg" width="100%" alt="GitHub Contribution Calendar">
+
+</div>
+
+---
+
 # Contribution Snake
 
 <div align="center">
