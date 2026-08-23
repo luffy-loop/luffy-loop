@@ -321,16 +321,6 @@ Currently building a growing technical portfolio across:
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=luffy-loop&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
