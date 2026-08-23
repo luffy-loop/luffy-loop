@@ -105,21 +105,125 @@ I enjoy turning concepts into working systems — from implementing algorithms a
 
 # Featured Projects
 
-<details>
-<summary><b>Synapse Studio — Algorithm Visualization Platform</b></summary>
+<div align="center">
 
-<br>
+<table>
+<tr>
 
-**Synapse Studio** is an interactive algorithm-learning platform designed around sorting and searching concepts for computational foundations coursework.
+<td width="50%" valign="top">
 
-| Attribute   | Details                                                                             |
-| ----------- | ----------------------------------------------------------------------------------- |
-| Stack       | HTML, CSS, JavaScript                                                               |
-| Scale       | Multi-page interactive learning platform                                            |
-| Performance | Client-side algorithm execution and visualization                                   |
-| Security    | Static client-side application                                                      |
-| Impact      | Makes algorithm behavior easier to understand through interaction and visualization |
-| Repository  | [Synapse Studio](https://github.com/luffy-loop/Synapse_Studio)                      |
+<h3 align="center">Synapse Studio</h3>
+
+<p align="center">
+<b>Algorithm Visualization Platform</b>
+</p>
+
+<p align="center">
+Interactive sorting and searching visualization platform built for computational foundations.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/luffy-loop/Synapse_Studio">
+<img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">FraudLens</h3>
+
+<p align="center">
+<b>Machine Learning Fraud Detection</b>
+</p>
+
+<p align="center">
+Machine-learning project focused on detecting fraudulent transactions through data analysis and classification.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/luffy-loop/FraudLens">
+<img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Campus Pulse</h3>
+
+<p align="center">
+<b>Campus Management Platform</b>
+</p>
+
+<p align="center">
+A practical full-stack platform designed around campus-oriented workflows and student needs.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Full--Stack-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/API-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deployed-22C55E?style=flat-square"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/luffy-loop">
+<img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">ShellForge</h3>
+
+<p align="center">
+<b>Systems Programming Project</b>
+</p>
+
+<p align="center">
+Operating-systems project exploring shell concepts, command execution and systems programming using C.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/luffy-loop">
+<img src="https://img.shields.io/badge/View%20Project-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
 
 ### Engineering Scope
 
