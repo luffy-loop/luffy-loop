@@ -4,109 +4,136 @@
 
 ### Computer Science Student · Developer · ML Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+things+that+make+me+curious;Learning+by+building;Exploring+AI%2C+systems+%26+software" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=2A9D9F&center=true&vCenter=true&width=650&lines=learning+every+day.;building+things+that+solve+real+problems.;exploring+ML%2C+algorithms+%26+systems.;one+project+at+a+time." alt="Typing animation">
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-luffy--loop-111827?style=flat-square\&logo=github)](https://github.com/luffy-loop)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poojasri-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pooja-sri-648669372/)
+`developer` &nbsp; · &nbsp; `ml explorer` &nbsp; · &nbsp; `algorithm enthusiast`
 
 </div>
 
 ---
 
-## About Me
+## ◇ About Me
 
-I'm a Computer Science student who enjoys turning ideas into working projects and learning by building.
+I'm a Computer Science student who enjoys turning ideas into real-world projects and learning by building.
 
-I like exploring the space between **software development, machine learning, algorithms and systems** — especially when a project gives me an excuse to understand something from the ground up.
+I'm particularly interested in **Machine Learning, Algorithms, Systems and Software Development** — especially when I get to understand how something works from the ground up.
 
 ```text
-currently → learning • building • experimenting • improving
+currently → learning · building · experimenting · improving
 ```
 
 ---
 
-## What I Work With
+## ◇ Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### FraudLens
+
+Machine learning project focused on **fraud detection and classification**.
+
+`Python` · `ML` · `Scikit-learn`
+
+[View Project →](https://github.com/luffy-loop/FraudLens)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Synapse Studio
+
+Interactive **sorting and searching algorithm visualizer**.
+
+`HTML` · `CSS` · `JavaScript`
+
+[View Project →](https://github.com/luffy-loop/Synapse_Studio)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### OS Project
+
+Exploring **Operating Systems concepts** through C programming and system-level work.
+
+`C` · `Linux` · `Systems`
+
+[View Project →](https://github.com/luffy-loop/OS_Project)
+
+</td>
+
+<td width="50%" valign="top">
+
+### DSA Project
+
+Data structures and algorithms implementations focused on **problem solving**.
+
+`Java` · `DSA` · `Algorithms`
+
+[View Project →](https://github.com/luffy-loop/DSA_Project)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◇ Tech Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,git,mysql&perline=8" alt="Tech stack">
 
 <br><br>
 
-### Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,sklearn" alt="Tools and technologies" />
-
-</div>
-
-
-
-## GitHub
-
-<div align="center">
-
-<a href="https://github.com/luffy-loop">
-
-<img src="https://github-readme-stats.vercel.app/api?username=luffy-loop&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&rank_icon=github" height="170" alt="Poojasri's GitHub statistics" />
-
-</a>
-
-<a href="https://github.com/luffy-loop">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffy-loop&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8&langs_count=8" height="170" alt="Poojasri's most used languages" />
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luffy-loop&bg_color=00000000&color=22D3EE&line=22D3EE&point=0EA5E9&area=true&hide_border=true" width="95%" alt="Poojasri's contribution activity" />
+`Python` &nbsp; `Java` &nbsp; `C` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Git` &nbsp; `MySQL`
 
 </div>
 
 ---
 
-
-## Contribution Activity
+## ◇ GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luffy-loop&hide_border=true&background=00000000&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=64748B&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" alt="GitHub streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luffy-loop&theme=github-light&hide_border=true&area=true&color=2A9D9F&line=3AAFC1&point=2A9D9F" width="95%" alt="GitHub contribution activity">
 
 </div>
 
 ---
 
-## Currently
+## ◇ Currently
 
 <div align="center">
 
-|     Learning     |       Building      |   Exploring  |
-| :--------------: | :-----------------: | :----------: |
+| Learning | Building | Exploring |
+|:---:|:---:|:---:|
 | Machine Learning | Real-world projects | AI & Systems |
-|        DSA       |     Web projects    |  Open Source |
+| DSA | Web projects | Open Source |
+| Algorithms | Portfolio work | Software Development |
 
 </div>
 
 ---
 
-## Connect
+## ◇ Connect
 
 <div align="center">
 
 <a href="https://github.com/luffy-loop">
-<img src="https://img.shields.io/badge/GitHub-luffy--loop-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-luffy--loop-24545A?style=flat-square&logo=github&logoColor=9DE3DF" alt="GitHub">
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/pooja-sri-648669372/">
-<img src="https://img.shields.io/badge/LinkedIn-Poojasri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Poojasri-2A7F88?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
@@ -115,22 +142,6 @@ currently → learning • building • experimenting • improving
 
 <div align="center">
 
-<sub>Building. Learning. Figuring things out.</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=100&section=footer" width="100%" alt="Cyan footer" />
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something interesting.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=90&section=footer" width="100%" alt="Footer" />
+<sub>building today · learning tomorrow · improving every day</sub>
 
 </div>
