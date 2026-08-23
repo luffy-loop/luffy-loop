@@ -102,7 +102,7 @@ Data structures and algorithms implementations focused on **problem solving**.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luffy-loop&theme=github-light&hide_border=true&area=true&color=2A9D9F&line=3AAFC1&point=2A9D9F" width="95%" alt="GitHub contribution activity">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luffy-loop&theme=github-dark&hide_border=true&area=true&color=2A9D9F&line=3AAFC1&point=2A9D9F" width="95%" alt="GitHub contribution activity">
 
 </div>
 
