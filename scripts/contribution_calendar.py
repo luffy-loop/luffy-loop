@@ -7,7 +7,7 @@ from pathlib import Path
 USERNAME = "luffy-loop"
 OUTPUT = Path("assets/contribution-calendar.svg")
 
-query = """
+QUERY = """
 query($login: String!) {
   user(login: $login) {
     contributionsCollection {
@@ -26,7 +26,12 @@ query($login: String!) {
 }
 """
 
-variables = json.dumps({"login": USERNAME})
+payload = {
+    "query": QUERY,
+    "variables": {
+        "login": USERNAME
+    }
+}
 
 result = subprocess.run(
     [
@@ -35,15 +40,12 @@ result = subprocess.run(
         "-X",
         "POST",
         "-H",
-        "Authorization: bearer " + os.environ["GITHUB_TOKEN"],
+        f"Authorization: bearer {os.environ['GITHUB_TOKEN']}",
         "-H",
         "Content-Type: application/json",
         "https://api.github.com/graphql",
         "-d",
-        json.dumps({
-            "query": query,
-            "variables": json.loads(variables)
-        })
+        json.dumps(payload)
     ],
     capture_output=True,
     text=True,
@@ -52,6 +54,9 @@ result = subprocess.run(
 
 data = json.loads(result.stdout)
 
+if "errors" in data:
+    raise RuntimeError(json.dumps(data["errors"], indent=2))
+
 calendar = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]
 
 total = calendar["totalContributions"]
@@ -59,33 +64,33 @@ total = calendar["totalContributions"]
 days = []
 
 for week in calendar["weeks"]:
-    for d in week["contributionDays"]:
-        days.append(d)
+    for contribution_day in week["contributionDays"]:
+        days.append(contribution_day)
 
-days.sort(key=lambda x: x["date"])
+days.sort(key=lambda item: item["date"])
 
-# Last 365 days
+# Keep approximately the last year
 end_date = date.today()
 start_date = end_date - timedelta(days=364)
 
 days = [
-    d for d in days
-    if start_date.isoformat() <= d["date"] <= end_date.isoformat()
+    day for day in days
+    if start_date.isoformat() <= day["date"] <= end_date.isoformat()
 ]
 
-# Align the first day to Sunday
-first = date.fromisoformat(days[0]["date"])
-padding = (first.weekday() + 1) % 7
+if not days:
+    raise RuntimeError("No contribution data was returned.")
+
+# Start the calendar on Sunday
+first_date = date.fromisoformat(days[0]["date"])
+padding = (first_date.weekday() + 1) % 7
 
 columns = []
 
-current_column = []
+current_column = [None] * padding
 
-for _ in range(padding):
-    current_column.append(None)
-
-for d in days:
-    current_column.append(d)
+for day in days:
+    current_column.append(day)
 
     if len(current_column) == 7:
         columns.append(current_column)
@@ -98,102 +103,129 @@ while current_column:
         columns.append(current_column)
         current_column = []
 
-cell = 16
-gap = 4
-left = 52
-top = 55
-width = left + len(columns) * (cell + gap) + 20
-height = 180
+# Visual settings
+CELL_SIZE = 15
+GAP = 4
+LEFT = 48
+TOP = 58
 
-month_names = [
+column_width = CELL_SIZE + GAP
+
+SVG_WIDTH = LEFT + len(columns) * column_width + 30
+SVG_HEIGHT = 190
+
+MONTHS = [
     "Jan", "Feb", "Mar", "Apr", "May", "Jun",
     "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
 ]
 
-levels = {
+COLORS = {
     "NONE": "#161B22",
     "FIRST_QUARTILE": "#3B0764",
     "SECOND_QUARTILE": "#6D28D9",
     "THIRD_QUARTILE": "#8B5CF6",
-    "FOURTH_QUARTILE": "#C4B5FD",
+    "FOURTH_QUARTILE": "#C4B5FD"
 }
 
 svg = []
 
 svg.append(
     f'<svg xmlns="http://www.w3.org/2000/svg" '
-    f'width="{width}" height="{height}" viewBox="0 0 {width} {height}">'
+    f'width="{SVG_WIDTH}" height="{SVG_HEIGHT}" '
+    f'viewBox="0 0 {SVG_WIDTH} {SVG_HEIGHT}">'
 )
 
-svg.append("""
-<rect width="100%" height="100%" rx="10" fill="#0D1117"/>
-""")
-
 svg.append(
-    f'<text x="18" y="25" fill="#E6EDF3" '
-    f'font-family="Arial, sans-serif" font-size="16" font-weight="600">'
-    f'{total} contributions in the last year</text>'
+    '<rect width="100%" height="100%" rx="12" fill="#0D1117"/>'
+)
+
+# Contribution count
+svg.append(
+    f'<text x="18" y="27" '
+    f'fill="#E6EDF3" '
+    f'font-family="Arial, Helvetica, sans-serif" '
+    f'font-size="17" '
+    f'font-weight="600">'
+    f'{total} contributions in the last year'
+    f'</text>'
 )
 
 # Month labels
-seen_months = set()
+previous_month = None
 
 for x, column in enumerate(columns):
-    valid = [d for d in column if d]
 
-    if not valid:
+    valid_days = [day for day in column if day is not None]
+
+    if not valid_days:
         continue
 
-    first_day = date.fromisoformat(valid[0]["date"])
+    first_day = date.fromisoformat(valid_days[0]["date"])
 
-    if first_day.month in seen_months:
+    # Only show a label when the month changes
+    if first_day.month == previous_month:
         continue
 
-    seen_months.add(first_day.month)
+    previous_month = first_day.month
 
-    xpos = left + x * (cell + gap)
+    xpos = LEFT + x * column_width
 
     svg.append(
-        f'<text x="{xpos}" y="43" fill="#8B949E" '
-        f'font-family="Arial, sans-serif" font-size="12">'
-        f'{month_names[first_day.month - 1]}</text>'
+        f'<text x="{xpos}" y="47" '
+        f'fill="#8B949E" '
+        f'font-family="Arial, Helvetica, sans-serif" '
+        f'font-size="12">'
+        f'{MONTHS[first_day.month - 1]}'
+        f'</text>'
     )
 
 # Contribution cells
 for x, column in enumerate(columns):
 
-    for y, d in enumerate(column):
+    for y, day in enumerate(column):
 
-        if d is None:
+        if day is None:
             continue
 
-        count = d["contributionCount"]
-        level = d["contributionLevel"]
+        count = day["contributionCount"]
+        level = day["contributionLevel"]
 
-        fill = levels.get(level, levels["NONE"])
+        color = COLORS.get(
+            level,
+            COLORS["NONE"]
+        )
 
-        xpos = left + x * (cell + gap)
-        ypos = top + y * (cell + gap)
+        xpos = LEFT + x * column_width
+        ypos = TOP + y * column_width
+
+        plural = "contributions" if count != 1 else "contribution"
 
         tooltip = (
-            f'{count} contribution'
-            f'{"s" if count != 1 else ""} on {d["date"]}'
+            f'{count} {plural} on {day["date"]}'
         )
 
         svg.append(
-            f'<rect x="{xpos}" y="{ypos}" '
-            f'width="{cell}" height="{cell}" rx="3" '
-            f'fill="{fill}">'
+            f'<rect '
+            f'x="{xpos}" '
+            f'y="{ypos}" '
+            f'width="{CELL_SIZE}" '
+            f'height="{CELL_SIZE}" '
+            f'rx="3" '
+            f'fill="{color}">'
             f'<title>{tooltip}</title>'
             f'</rect>'
         )
 
 # Legend
-legend_y = top + 7 * (cell + gap) + 12
+legend_y = TOP + 7 * column_width + 18
 
 svg.append(
-    f'<text x="18" y="{legend_y + 3}" fill="#8B949E" '
-    f'font-family="Arial, sans-serif" font-size="11">Less</text>'
+    f'<text x="18" y="{legend_y}" '
+    f'fill="#8B949E" '
+    f'font-family="Arial, Helvetica, sans-serif" '
+    f'font-size="11">'
+    f'Less'
+    f'</text>'
 )
 
 legend_colors = [
@@ -201,27 +233,44 @@ legend_colors = [
     "#3B0764",
     "#6D28D9",
     "#8B5CF6",
-    "#C4B5FD",
+    "#C4B5FD"
 ]
 
-for i, color in enumerate(legend_colors):
+for index, color in enumerate(legend_colors):
 
-    x = 50 + i * 18
+    xpos = 48 + index * 19
 
     svg.append(
-        f'<rect x="{x}" y="{legend_y - 8}" '
-        f'width="13" height="13" rx="3" fill="{color}"/>'
+        f'<rect '
+        f'x="{xpos}" '
+        f'y="{legend_y - 11}" '
+        f'width="14" '
+        f'height="14" '
+        f'rx="3" '
+        f'fill="{color}"/>'
     )
 
 svg.append(
-    f'<text x="{50 + len(legend_colors) * 18 + 5}" '
-    f'y="{legend_y + 3}" fill="#8B949E" '
-    f'font-family="Arial, sans-serif" font-size="11">More</text>'
+    f'<text '
+    f'x="{48 + len(legend_colors) * 19 + 5}" '
+    f'y="{legend_y}" '
+    f'fill="#8B949E" '
+    f'font-family="Arial, Helvetica, sans-serif" '
+    f'font-size="11">'
+    f'More'
+    f'</text>'
 )
 
 svg.append("</svg>")
 
-OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-OUTPUT.write_text("\n".join(svg), encoding="utf-8")
+OUTPUT.parent.mkdir(
+    parents=True,
+    exist_ok=True
+)
 
-print(f"Generated {OUTPUT}")
+OUTPUT.write_text(
+    "\n".join(svg),
+    encoding="utf-8"
+)
+
+print(f"Contribution calendar generated: {OUTPUT}")
