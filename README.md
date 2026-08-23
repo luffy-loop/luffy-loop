@@ -43,77 +43,36 @@ currently → learning • building • experimenting • improving
 
 </div>
 
----
 
-## Things I'm Building
-
-<table>
-<tr>
-<td width="50%">
-
-### Synapse Studio
-
-An interactive platform for understanding sorting and searching algorithms through visualization and comparison.
-
-**Built with**
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%">
-
-### FraudLens
-
-A machine-learning project exploring fraud detection and classification using data-driven models.
-
-**Built with**
-
-`Python` `Scikit-learn` `ML`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ShellForge
-
-An operating-systems project exploring processes, shells and system-level programming.
-
-**Built with**
-
-`C` `Linux` `OS`
-
-</td>
-
-<td width="50%">
-
-### More experiments
-
-Small projects, coursework, experiments and ideas that help me learn something new.
-
-**Currently**
-
-`Learning` `Building` `Exploring`
-
-</td>
-</tr>
-</table>
-
----
 
 ## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luffy-loop&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=22D3EE&text_color=64748B&ring_color=22D3EE" height="165" alt="GitHub statistics" />
+<a href="https://github.com/luffy-loop">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffy-loop&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=64748B" height="165" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=luffy-loop&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&rank_icon=github" height="170" alt="Poojasri's GitHub statistics" />
+
+</a>
+
+<a href="https://github.com/luffy-loop">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffy-loop&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8&langs_count=8" height="170" alt="Poojasri's most used languages" />
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luffy-loop&bg_color=00000000&color=22D3EE&line=22D3EE&point=0EA5E9&area=true&hide_border=true" width="95%" alt="Poojasri's contribution activity" />
 
 </div>
 
 ---
+
 
 ## Contribution Activity
 
