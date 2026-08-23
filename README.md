@@ -338,29 +338,19 @@ Currently building a growing technical portfolio across:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luffy-loop&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true" width="100%"/>
 
 </div>
+
 ---
 
-# Contribution Calendar
+# Contribution Snake
 
 <div align="center">
 
-<img src="./assets/contribution-calendar.svg" width="100%" alt="GitHub Contribution Calendar">
+<img src="https://raw.githubusercontent.com/luffy-loop/luffy-loop/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
----
-
-# Contribution Calendar
-
-<div align="center">
-
-<img src="./assets/contribution-calendar.svg" width="100%" alt="GitHub Contribution Calendar">
-
-</div>
-
----
-
+------
 # Contribution Snake
 
 <div align="center">
