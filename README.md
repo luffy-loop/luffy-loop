@@ -1,36 +1,71 @@
 <div align="center">
 
-# Poojasri
+<table>
+<tr>
+<td align="center" width="800" bgcolor="#EAF7F2">
+<br>
 
-### Computer Science Student · Developer · ML Explorer
+# <font color="#0E155E">Poojasri</font>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=2A9D9F&center=true&vCenter=true&width=650&lines=learning+every+day.;building+things+that+solve+real+problems.;exploring+ML%2C+algorithms+%26+systems.;one+project+at+a+time." alt="Typing animation">
+### <font color="#206ABC">Computer Science Student · Developer · ML Explorer</font>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=206ABC&center=true&vCenter=true&width=650&lines=learning+every+day.;building+things+that+solve+real+problems.;exploring+ML%2C+algorithms+%26+systems.;one+project+at+a+time." alt="Typing animation">
 
 <br>
 
+<font color="#B37AD4">
+
 `developer` &nbsp; · &nbsp; `ml explorer` &nbsp; · &nbsp; `algorithm enthusiast`
+
+</font>
+
+<br><br>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## ◇ About Me
+## <font color="#0E155E">◇ About Me</font>
+
+<font color="#334B73">
 
 I'm a Computer Science student who enjoys turning ideas into real-world projects and learning by building.
 
-I'm particularly interested in **Machine Learning, Algorithms, Systems and Software Development** — especially when I get to understand how something works from the ground up.
+I like exploring the space between **software development, machine learning, algorithms and systems** — especially when I get to understand something from the ground up.
 
-```text
-currently → learning · building · experimenting · improving
-```
+</font>
 
----
-
-## ◇ Projects
+<br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td bgcolor="#BFE8C8">
+
+<font color="#0E155E">
+
+`currently → learning · building · experimenting · improving`
+
+</font>
+
+</td>
+</tr>
+</table>
+
+---
+
+## <font color="#0E155E">◇ Projects</font>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top" bgcolor="#BFE8C8">
+
+<font color="#0E155E">
 
 ### FraudLens
 
@@ -40,9 +75,13 @@ Machine learning project focused on **fraud detection and classification**.
 
 [View Project →](https://github.com/luffy-loop/FraudLens)
 
+</font>
+
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#DDE7FA">
+
+<font color="#0E155E">
 
 ### Synapse Studio
 
@@ -52,11 +91,17 @@ Interactive **sorting and searching algorithm visualizer**.
 
 [View Project →](https://github.com/luffy-loop/Synapse_Studio)
 
+</font>
+
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+
+<td width="50%" valign="top" bgcolor="#E8D7F5">
+
+<font color="#0E155E">
 
 ### OS Project
 
@@ -66,9 +111,13 @@ Exploring **Operating Systems concepts** through C programming and system-level 
 
 [View Project →](https://github.com/luffy-loop/OS_Project)
 
+</font>
+
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" bgcolor="#C9D8F6">
+
+<font color="#0E155E">
 
 ### DSA Project
 
@@ -78,13 +127,17 @@ Data structures and algorithms implementations focused on **problem solving**.
 
 [View Project →](https://github.com/luffy-loop/DSA_Project)
 
+</font>
+
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-## ◇ Tech Stack
+## <font color="#0E155E">◇ Tech Stack</font>
 
 <div align="center">
 
@@ -92,48 +145,82 @@ Data structures and algorithms implementations focused on **problem solving**.
 
 <br><br>
 
-`Python` &nbsp; `Java` &nbsp; `C` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Git` &nbsp; `MySQL`
+<font color="#206ABC">
+
+Python · Java · C · JavaScript · HTML · CSS · Git · MySQL
+
+</font>
 
 </div>
 
 ---
 
-## ◇ GitHub Activity
+## <font color="#0E155E">◇ GitHub Activity</font>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luffy-loop&theme=github-dark&hide_border=true&area=true&color=2A9D9F&line=3AAFC1&point=2A9D9F" width="95%" alt="GitHub contribution activity">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luffy-loop&theme=github-light&hide_border=true&area=true&color=206ABC&line=7997E6&point=B37AD4" width="95%" alt="GitHub contribution activity">
 
 </div>
 
 ---
 
-## ◇ Currently
+## <font color="#0E155E">◇ Currently</font>
 
 <div align="center">
 
-| Learning | Building | Exploring |
-|:---:|:---:|:---:|
-| Machine Learning | Real-world projects | AI & Systems |
-| DSA | Web projects | Open Source |
-| Algorithms | Portfolio work | Software Development |
+<table>
+
+<tr bgcolor="#BFE8C8">
+
+<th><font color="#0E155E">Learning</font></th>
+<th><font color="#0E155E">Building</font></th>
+<th><font color="#0E155E">Exploring</font></th>
+
+</tr>
+
+<tr bgcolor="#EEF6FF">
+
+<td>Machine Learning</td>
+<td>Real-world projects</td>
+<td>AI & Systems</td>
+
+</tr>
+
+<tr bgcolor="#E8D7F5">
+
+<td>DSA</td>
+<td>Web projects</td>
+<td>Open Source</td>
+
+</tr>
+
+<tr bgcolor="#C9D8F6">
+
+<td>Algorithms</td>
+<td>Portfolio work</td>
+<td>Software Development</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-## ◇ Connect
+## <font color="#0E155E">◇ Connect</font>
 
 <div align="center">
 
 <a href="https://github.com/luffy-loop">
-<img src="https://img.shields.io/badge/GitHub-luffy--loop-24545A?style=flat-square&logo=github&logoColor=9DE3DF" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-luffy--loop-0E155E?style=flat-square&logo=github&logoColor=BFE8C8" alt="GitHub">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/pooja-sri-648669372/">
-<img src="https://img.shields.io/badge/LinkedIn-Poojasri-2A7F88?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Poojasri-206ABC?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
 </a>
 
 </div>
@@ -142,6 +229,18 @@ Data structures and algorithms implementations focused on **problem solving**.
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" bgcolor="#BFE8C8">
+
+<font color="#0E155E">
+
 <sub>building today · learning tomorrow · improving every day</sub>
+
+</font>
+
+</td>
+</tr>
+</table>
 
 </div>
