@@ -339,17 +339,7 @@ Currently building a growing technical portfolio across:
 
 </div>
 
----
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/luffy-loop/luffy-loop/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
 ------
 # Contribution Snake
 
