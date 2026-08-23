@@ -1,32 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=180&section=header&text=POOJASRI&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="./assets/hero.png" width="100%" alt="Poojasri profile banner">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+%26+AI+Engineer+in+Progress;Machine+Learning+Explorer;Building+with+Code%2C+Data+%26+Algorithms" alt="Typing SVG"/>
+# Poojasri
 
-<br><br>
+### Computer Science Student · Developer · ML Explorer
 
-<img src="https://img.shields.io/badge/CSE-Student-6D28D9?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-Explorer-7C3AED?style=for-the-badge&labelColor=111827"/>
-<img src="https://img.shields.io/badge/India-312E81?style=for-the-badge&labelColor=111827"/>
-
-<br><br>
-
-<a href="https://github.com/luffy-loop">
-<img src="https://img.shields.io/badge/GitHub-luffy--loop-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/luffy-loop">
-<img src="https://img.shields.io/badge/Explore%20My%20Work-6D28D9?style=for-the-badge&logo=github"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=luffy-loop&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/luffy-loop?style=for-the-badge&label=FOLLOWERS&color=7C3AED"/>
-<img src="https://img.shields.io/github/stars/luffy-loop?style=for-the-badge&label=STARS&color=4C1D95"/>
+Building projects in **Machine Learning, Algorithms, Systems & Web Development.**
 
 </div>
 
