@@ -1,20 +1,14 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="Poojasri profile banner">
-
-<br>
-
-<font color="#0E155E">
+# Poojasri
 
 ### Computer Science Student · Developer · ML Explorer
 
-</font>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=2A9D9F&center=true&vCenter=true&width=650&lines=learning+every+day.;building+things+that+solve+real+problems.;exploring+ML%2C+algorithms+%26+systems.;one+project+at+a+time." alt="Typing animation">
 
-<font color="#206ABC">
+<br>
 
-`developer` · `ml explorer` · `algorithm enthusiast`
-
-</font>
+`developer` &nbsp; · &nbsp; `ml explorer` &nbsp; · &nbsp; `algorithm enthusiast`
 
 </div>
 
@@ -24,30 +18,18 @@
 
 I'm a Computer Science student who enjoys turning ideas into real-world projects and learning by building.
 
-I like exploring the space between **software development, machine learning, algorithms and systems** — especially when I get to understand something from the ground up.
+I'm particularly interested in **Machine Learning, Algorithms, Systems and Software Development** — especially when I get to understand how something works from the ground up.
 
-<table>
-<tr>
-<td>
-
-<font color="#206ABC">
-
-`currently → learning · building · experimenting · improving`
-
-</font>
-
-</td>
-</tr>
-</table>
+```text
+currently → learning · building · experimenting · improving
+```
 
 ---
 
 ## ◇ Projects
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### FraudLens
@@ -56,7 +38,7 @@ Machine learning project focused on **fraud detection and classification**.
 
 `Python` · `ML` · `Scikit-learn`
 
-[View Project →](/luffy-loop/FraudLens)
+[View Project →](https://github.com/luffy-loop/FraudLens)
 
 </td>
 
@@ -68,14 +50,12 @@ Interactive **sorting and searching algorithm visualizer**.
 
 `HTML` · `CSS` · `JavaScript`
 
-[View Project →](/luffy-loop/Synapse_Studio)
+[View Project →](https://github.com/luffy-loop/Synapse_Studio)
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### OS Project
@@ -84,7 +64,7 @@ Exploring **Operating Systems concepts** through C programming and system-level 
 
 `C` · `Linux` · `Systems`
 
-[View Project →](/luffy-loop/OS_Project)
+[View Project →](https://github.com/luffy-loop/OS_Project)
 
 </td>
 
@@ -96,12 +76,10 @@ Data structures and algorithms implementations focused on **problem solving**.
 
 `Java` · `DSA` · `Algorithms`
 
-[View Project →](/luffy-loop/DSA_Project)
+[View Project →](https://github.com/luffy-loop/DSA_Project)
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -114,7 +92,7 @@ Data structures and algorithms implementations focused on **problem solving**.
 
 <br><br>
 
-`Python` · `Java` · `C` · `JavaScript` · `HTML` · `CSS` · `Git` · `MySQL`
+`Python` &nbsp; `Java` &nbsp; `C` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Git` &nbsp; `MySQL`
 
 </div>
 
@@ -124,7 +102,7 @@ Data structures and algorithms implementations focused on **problem solving**.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luffy-loop&theme=github-light&hide_border=true&area=true&color=206ABC&line=7997E6&point=B37AD4" width="95%" alt="GitHub contribution activity">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luffy-loop&theme=github-light&hide_border=true&area=true&color=2A9D9F&line=3AAFC1&point=2A9D9F" width="95%" alt="GitHub contribution activity">
 
 </div>
 
@@ -148,13 +126,21 @@ Data structures and algorithms implementations focused on **problem solving**.
 
 <div align="center">
 
-[GitHub · luffy-loop](/luffy-loop)
+<a href="https://github.com/luffy-loop">
+<img src="https://img.shields.io/badge/GitHub-luffy--loop-24545A?style=flat-square&logo=github&logoColor=9DE3DF" alt="GitHub">
+</a>
 
-&nbsp;&nbsp; · &nbsp;&nbsp;
+&nbsp;&nbsp;
 
-[LinkedIn · Poojasri](https://www.linkedin.com/in/pooja-sri-648669372/)
+<a href="https://www.linkedin.com/in/pooja-sri-648669372/">
+<img src="https://img.shields.io/badge/LinkedIn-Poojasri-2A7F88?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <sub>building today · learning tomorrow · improving every day</sub>
 
