@@ -84,35 +84,44 @@ currently → learning • building • experimenting • improving
 
 ---
 
-## A Little More
+## Currently
 
-<table>
-<tr>
-<td align="center" width="33%">
+<div align="center">
 
-**01**
+|     Learning     |       Building      |   Exploring  |
+| :--------------: | :-----------------: | :----------: |
+| Machine Learning | Real-world projects | AI & Systems |
+|        DSA       |     Web projects    |  Open Source |
 
-Learning
+</div>
 
-</td>
+---
 
-<td align="center" width="33%">
+## Connect
 
-**02**
+<div align="center">
 
-Building
+<a href="https://github.com/luffy-loop">
+<img src="https://img.shields.io/badge/GitHub-luffy--loop-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" />
+</a>
 
-</td>
+<a href="https://www.linkedin.com/in/pooja-sri-648669372/">
+<img src="https://img.shields.io/badge/LinkedIn-Poojasri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-<td align="center" width="33%">
+</div>
 
-**03**
+<br>
 
-Improving
+<div align="center">
 
-</td>
-</tr>
-</table>
+<sub>Building. Learning. Figuring things out.</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=100&section=footer" width="100%" alt="Cyan footer" />
+
+</div>
 
 ---
 
