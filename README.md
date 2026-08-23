@@ -1,51 +1,36 @@
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="800" bgcolor="#EAF7F2">
-<br>
-
-# <font color="#0E155E">Poojasri</font>
-
-### <font color="#206ABC">Computer Science Student · Developer · ML Explorer</font>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=206ABC&center=true&vCenter=true&width=650&lines=learning+every+day.;building+things+that+solve+real+problems.;exploring+ML%2C+algorithms+%26+systems.;one+project+at+a+time." alt="Typing animation">
+<img src="./assets/hero.png" width="100%" alt="Poojasri profile banner">
 
 <br>
 
-<font color="#B37AD4">
+<font color="#0E155E">
 
-`developer` &nbsp; · &nbsp; `ml explorer` &nbsp; · &nbsp; `algorithm enthusiast`
+### Computer Science Student · Developer · ML Explorer
 
 </font>
 
-<br><br>
+<font color="#206ABC">
 
-</td>
-</tr>
-</table>
+`developer` · `ml explorer` · `algorithm enthusiast`
+
+</font>
 
 </div>
 
 ---
 
-## <font color="#0E155E">◇ About Me</font>
-
-<font color="#334B73">
+## ◇ About Me
 
 I'm a Computer Science student who enjoys turning ideas into real-world projects and learning by building.
 
 I like exploring the space between **software development, machine learning, algorithms and systems** — especially when I get to understand something from the ground up.
 
-</font>
-
-<br>
-
 <table>
 <tr>
-<td bgcolor="#BFE8C8">
+<td>
 
-<font color="#0E155E">
+<font color="#206ABC">
 
 `currently → learning · building · experimenting · improving`
 
@@ -57,15 +42,13 @@ I like exploring the space between **software development, machine learning, alg
 
 ---
 
-## <font color="#0E155E">◇ Projects</font>
+## ◇ Projects
 
 <table>
 
 <tr>
 
-<td width="50%" valign="top" bgcolor="#BFE8C8">
-
-<font color="#0E155E">
+<td width="50%" valign="top">
 
 ### FraudLens
 
@@ -73,15 +56,11 @@ Machine learning project focused on **fraud detection and classification**.
 
 `Python` · `ML` · `Scikit-learn`
 
-[View Project →](https://github.com/luffy-loop/FraudLens)
-
-</font>
+[View Project →](/luffy-loop/FraudLens)
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#DDE7FA">
-
-<font color="#0E155E">
+<td width="50%" valign="top">
 
 ### Synapse Studio
 
@@ -89,9 +68,7 @@ Interactive **sorting and searching algorithm visualizer**.
 
 `HTML` · `CSS` · `JavaScript`
 
-[View Project →](https://github.com/luffy-loop/Synapse_Studio)
-
-</font>
+[View Project →](/luffy-loop/Synapse_Studio)
 
 </td>
 
@@ -99,9 +76,7 @@ Interactive **sorting and searching algorithm visualizer**.
 
 <tr>
 
-<td width="50%" valign="top" bgcolor="#E8D7F5">
-
-<font color="#0E155E">
+<td width="50%" valign="top">
 
 ### OS Project
 
@@ -109,15 +84,11 @@ Exploring **Operating Systems concepts** through C programming and system-level 
 
 `C` · `Linux` · `Systems`
 
-[View Project →](https://github.com/luffy-loop/OS_Project)
-
-</font>
+[View Project →](/luffy-loop/OS_Project)
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#C9D8F6">
-
-<font color="#0E155E">
+<td width="50%" valign="top">
 
 ### DSA Project
 
@@ -125,9 +96,7 @@ Data structures and algorithms implementations focused on **problem solving**.
 
 `Java` · `DSA` · `Algorithms`
 
-[View Project →](https://github.com/luffy-loop/DSA_Project)
-
-</font>
+[View Project →](/luffy-loop/DSA_Project)
 
 </td>
 
@@ -137,7 +106,7 @@ Data structures and algorithms implementations focused on **problem solving**.
 
 ---
 
-## <font color="#0E155E">◇ Tech Stack</font>
+## ◇ Tech Stack
 
 <div align="center">
 
@@ -145,17 +114,13 @@ Data structures and algorithms implementations focused on **problem solving**.
 
 <br><br>
 
-<font color="#206ABC">
-
-Python · Java · C · JavaScript · HTML · CSS · Git · MySQL
-
-</font>
+`Python` · `Java` · `C` · `JavaScript` · `HTML` · `CSS` · `Git` · `MySQL`
 
 </div>
 
 ---
 
-## <font color="#0E155E">◇ GitHub Activity</font>
+## ◇ GitHub Activity
 
 <div align="center">
 
@@ -165,82 +130,32 @@ Python · Java · C · JavaScript · HTML · CSS · Git · MySQL
 
 ---
 
-## <font color="#0E155E">◇ Currently</font>
+## ◇ Currently
 
 <div align="center">
 
-<table>
-
-<tr bgcolor="#BFE8C8">
-
-<th><font color="#0E155E">Learning</font></th>
-<th><font color="#0E155E">Building</font></th>
-<th><font color="#0E155E">Exploring</font></th>
-
-</tr>
-
-<tr bgcolor="#EEF6FF">
-
-<td>Machine Learning</td>
-<td>Real-world projects</td>
-<td>AI & Systems</td>
-
-</tr>
-
-<tr bgcolor="#E8D7F5">
-
-<td>DSA</td>
-<td>Web projects</td>
-<td>Open Source</td>
-
-</tr>
-
-<tr bgcolor="#C9D8F6">
-
-<td>Algorithms</td>
-<td>Portfolio work</td>
-<td>Software Development</td>
-
-</tr>
-
-</table>
+| Learning | Building | Exploring |
+|:---:|:---:|:---:|
+| Machine Learning | Real-world projects | AI & Systems |
+| DSA | Web projects | Open Source |
+| Algorithms | Portfolio work | Software Development |
 
 </div>
 
 ---
 
-## <font color="#0E155E">◇ Connect</font>
+## ◇ Connect
 
 <div align="center">
 
-<a href="https://github.com/luffy-loop">
-<img src="https://img.shields.io/badge/GitHub-luffy--loop-0E155E?style=flat-square&logo=github&logoColor=BFE8C8" alt="GitHub">
-</a>
+[GitHub · luffy-loop](/luffy-loop)
 
-&nbsp;&nbsp;
+&nbsp;&nbsp; · &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/pooja-sri-648669372/">
-<img src="https://img.shields.io/badge/LinkedIn-Poojasri-206ABC?style=flat-square&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
-</a>
+[LinkedIn · Poojasri](https://www.linkedin.com/in/pooja-sri-648669372/)
 
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" bgcolor="#BFE8C8">
-
-<font color="#0E155E">
+<br><br>
 
 <sub>building today · learning tomorrow · improving every day</sub>
-
-</font>
-
-</td>
-</tr>
-</table>
 
 </div>
