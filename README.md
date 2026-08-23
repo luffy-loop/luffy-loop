@@ -1,10 +1,15 @@
 <div align="center">
 
-# Hi, I'm Poojasri
+# Poojasri
 
-### Computer Science Student | Developer | ML Explorer
+### Computer Science Student · Developer · ML Explorer
 
-Building projects, learning systems, and turning ideas into code.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+things+that+make+me+curious;Learning+by+building;Exploring+AI%2C+systems+%26+software" alt="Typing intro" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-luffy--loop-111827?style=flat-square\&logo=github)](https://github.com/luffy-loop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poojasri-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pooja-sri-648669372/)
 
 </div>
 
@@ -12,95 +17,152 @@ Building projects, learning systems, and turning ideas into code.
 
 ## About Me
 
-I'm a Computer Science student who enjoys building things and understanding how they work.
+I'm a Computer Science student who enjoys turning ideas into working projects and learning by building.
 
-- Currently exploring **Machine Learning, Algorithms & Systems**
-- Building projects with **Python, Java, C, HTML, CSS & JavaScript**
-- Interested in **AI, Data Science, Open Source & Software Development**
-- Always learning something new
+I like exploring the space between **software development, machine learning, algorithms and systems** — especially when a project gives me an excuse to understand something from the ground up.
 
----
-
-## What I'm Working On
-
-- Machine Learning projects
-- Algorithm visualization
-- Operating Systems & systems programming
-- Building practical projects for my portfolio
-- Improving my problem-solving skills
+```text
+currently → learning • building • experimenting • improving
+```
 
 ---
 
-## Tech Stack
+## What I Work With
+
+<div align="center">
 
 ### Languages
 
-`Python` `Java` `C` `JavaScript` `HTML` `CSS`
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css" alt="Languages" />
+
+<br><br>
 
 ### Tools & Technologies
 
-`Git` `GitHub` `VS Code` `Linux` `Machine Learning`
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,sklearn" alt="Tools and technologies" />
+
+</div>
 
 ---
 
-## Featured Projects
+## Things I'm Building
+
+<table>
+<tr>
+<td width="50%">
 
 ### Synapse Studio
 
-An interactive algorithm visualization platform for learning sorting and searching algorithms.
+An interactive platform for understanding sorting and searching algorithms through visualization and comparison.
 
-**Tech:** HTML • CSS • JavaScript
+**Built with**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
 
 ### FraudLens
 
-A machine learning project focused on fraud detection and classification.
+A machine-learning project exploring fraud detection and classification using data-driven models.
 
-**Tech:** Python • Machine Learning • Scikit-learn
+**Built with**
+
+`Python` `Scikit-learn` `ML`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### ShellForge
 
-An operating-systems project exploring shell and process-related concepts.
+An operating-systems project exploring processes, shells and system-level programming.
 
-**Tech:** C • Linux • Operating Systems
+**Built with**
+
+`C` `Linux` `OS`
+
+</td>
+
+<td width="50%">
+
+### More experiments
+
+Small projects, coursework, experiments and ideas that help me learn something new.
+
+**Currently**
+
+`Learning` `Building` `Exploring`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luffy-loop&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=luffy-loop&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=22D3EE&text_color=64748B&ring_color=22D3EE" height="165" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffy-loop&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffy-loop&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=64748B" height="165" alt="Most used languages" />
 
 </div>
 
 ---
 
-## Contribution Graph
+## Contribution Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=luffy-loop&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luffy-loop&hide_border=true&background=00000000&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=64748B&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" alt="GitHub streak" />
 
 </div>
 
 ---
 
-## Connect With Me
+## A Little More
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
-<a href="https://github.com/luffy-loop">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+**01**
 
-</div>
+Learning
+
+</td>
+
+<td align="center" width="33%">
+
+**02**
+
+Building
+
+</td>
+
+<td align="center" width="33%">
+
+**03**
+
+Improving
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### Keep building. Keep learning.
+### Let's build something interesting.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22D3EE&height=90&section=footer" width="100%" alt="Footer" />
 
 </div>
