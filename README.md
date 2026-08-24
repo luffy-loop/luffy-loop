@@ -16,11 +16,9 @@ Build. Learn. Experiment. Ship.
 
 About Me
 
-I am a Computer Science student focused on building practical software and exploring the intersection of software engineering, artificial intelligence, machine learning, and data-driven systems.
+Computer Science student building practical software across ML, algorithms, full-stack development and systems programming.
 
-My work spans algorithm visualization, machine learning, full-stack development, systems programming, and academic engineering projects.
-
-I enjoy turning concepts into working systems — from implementing algorithms and statistical models to building deployed applications and experimenting with intelligent solutions.
+My portfolio focuses on turning coursework and ideas into working systems — from fraud detection and algorithm visualization to deployed applications and OS-level projects.
 
 Engineering Interests
 
@@ -78,61 +76,31 @@ Cloud, DevOps & Tooling
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 </p>
 
-AI / ML Expertise
+AI / ML
 
-Domain
+Area
 
-Proficiency
-
-Details
+Evidence
 
 Machine Learning
 
-Developing
-
-Supervised learning, model evaluation and practical ML workflows
+FraudLens — preprocessing, classification and model evaluation
 
 Data Analysis
 
-Developing
-
-Statistical analysis, correlation, covariance and exploratory analysis
+Statistical analysis, correlation, covariance and exploratory workflows
 
 Regression
-
-Developing
 
 Linear Regression and Logistic Regression
 
 Classification
 
-Developing
-
 Binary classification and predictive modeling
-
-Data Preprocessing
-
-Developing
-
-Missing-value handling, normalization and statistical preprocessing
-
-Model Evaluation
-
-Developing
-
-Performance analysis and comparison of ML approaches
 
 Algorithms
 
-Strong Academic Foundation
-
-Sorting, searching and algorithmic analysis
-
-Applied Work
-
-Project-Based
-
-Fraud detection, statistical analysis and interactive algorithm tooling
+Sorting, searching and algorithmic analysis through Synapse Studio
 
 Featured Projects
 
@@ -140,22 +108,6 @@ Featured Projects
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">Synapse Studio</h3>
-<p align="center"><b>Algorithms · Visualization · JavaScript</b></p>
-<p align="center">Sorting and searching algorithms turned into an interactive learning and comparison platform.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center"><a href="https://github.com/luffy-loop/Synapse_Studio"><img src="https://img.shields.io/badge/View%20Project-2A9D9F?style=for-the-badge&logo=github&logoColor=white"/></a></p>
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -173,25 +125,25 @@ Featured Projects
 
 </td>
 
+<td width="50%" valign="top">
+
+<h3 align="center">Synapse Studio</h3>
+<p align="center"><b>Algorithms · Visualization · JavaScript</b></p>
+<p align="center">An interactive platform for learning, visualizing and comparing sorting and searching algorithms.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center"><a href="https://github.com/luffy-loop/Synapse_Studio"><img src="https://img.shields.io/badge/View%20Project-2A9D9F?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+</td>
+
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">Campus Pulse</h3>
-<p align="center"><b>Full-Stack · APIs · Deployment</b></p>
-<p align="center">A campus-focused application built around student workflows, API integration and deployment.</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Full--Stack-2A9D9F?style=flat-square"/>
-<img src="https://img.shields.io/badge/API-264653?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deployed-22C55E?style=flat-square"/>
-</p>
-
-<p align="center"><a href="https://github.com/luffy-loop"><img src="https://img.shields.io/badge/View%20Project-2A9D9F?style=for-the-badge&logo=github&logoColor=white"/></a></p>
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -209,10 +161,27 @@ Featured Projects
 
 </td>
 
+<td width="50%" valign="top">
+
+<h3 align="center">Campus Pulse</h3>
+<p align="center"><b>Full-Stack · APIs · Deployment</b></p>
+<p align="center">A deployed campus-focused application built around student workflows and API integration.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Full--Stack-2A9D9F?style=flat-square"/>
+<img src="https://img.shields.io/badge/API-264653?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deployed-22C55E?style=flat-square"/>
+</p>
+
+<p align="center"><a href="https://github.com/luffy-loop"><img src="https://img.shields.io/badge/View%20Project-2A9D9F?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+
+</td>
+
 </tr>
 </table>
 
 </div>
+---
 
 Synapse Studio
 
@@ -258,34 +227,6 @@ FraudLens
 
 FraudLens is a machine-learning project focused on detecting fraudulent transactions through data preprocessing, model development and evaluation.
 
-Attribute
-
-Details
-
-Stack
-
-Python, Pandas, Scikit-learn
-
-Scale
-
-Machine-learning classification workflow
-
-Performance
-
-Model-based predictive classification
-
-Security
-
-Fraud-oriented predictive analysis
-
-Impact
-
-Demonstrates practical application of ML to financial transaction data
-
-Repository
-
-FraudLens
-
 Engineering Scope
 
 Transaction data analysis
@@ -313,34 +254,6 @@ Campus Pulse
 
 Campus Pulse is a campus-focused application developed as a practical full-stack project.
 
-Attribute
-
-Details
-
-Stack
-
-Web technologies and API-based application architecture
-
-Scale
-
-Full-stack application
-
-Performance
-
-Deployed web application
-
-Security
-
-API-driven data access
-
-Impact
-
-Provides a practical digital platform for campus-related workflows
-
-Repository
-
-GitHub
-
 Engineering Scope
 
 Full-stack application development
@@ -365,34 +278,6 @@ ShellForge
 <br>
 
 ShellForge is an operating-systems-oriented shell project focused on understanding command execution and system-level programming concepts.
-
-Attribute
-
-Details
-
-Stack
-
-C, Linux, WSL
-
-Scale
-
-Systems programming project
-
-Performance
-
-Native command-line execution
-
-Security
-
-OS-level process and command concepts
-
-Impact
-
-Practical exploration of shell and operating-system fundamentals
-
-Repository
-
-GitHub
 
 Engineering Scope
 
