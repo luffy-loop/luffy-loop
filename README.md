@@ -20,36 +20,6 @@ Computer Science student building practical software across ML, algorithms, full
 
 My portfolio focuses on turning coursework and ideas into working systems — from fraud detection and algorithm visualization to deployed applications and OS-level projects.
 
-Engineering Interests
-
-Software Engineering
-
-Artificial Intelligence & Machine Learning
-
-Data Science & Statistical Analysis
-
-Full-Stack Web Development
-
-Algorithms & Data Structures
-
-Systems Programming
-
-Product-Oriented Development
-
-Open To
-
-Software Engineering opportunities
-
-AI / ML projects
-
-Open-source collaboration
-
-Hackathons and technical competitions
-
-Research-oriented projects
-
-Building useful developer tools
-
 Tech Stack
 
 Languages
@@ -76,33 +46,17 @@ Cloud, DevOps & Tooling
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 </p>
 
-AI / ML
+Skills
 
-Area
+Languages: Python · Java · C · JavaScript
 
-Evidence
+Core: Machine Learning · Data Analysis · Algorithms & Data Structures · Systems Programming
 
-Machine Learning
-
-FraudLens — preprocessing, classification and model evaluation
-
-Data Analysis
-
-Statistical analysis, correlation, covariance and exploratory workflows
-
-Regression
-
-Linear Regression and Logistic Regression
-
-Classification
-
-Binary classification and predictive modeling
-
-Algorithms
-
-Sorting, searching and algorithmic analysis through Synapse Studio
+Tools: Git · GitHub · Linux · VS Code
 
 Featured Projects
+
+A selection of projects across ML, algorithms, systems and full-stack development.
 
 <div align="center">
 
@@ -183,210 +137,6 @@ Featured Projects
 </div>
 ---
 
-Synapse Studio
-
-<details>
-<summary><b>Algorithm Visualization Platform</b></summary>
-
-<br>
-
-Synapse Studio is an interactive algorithm visualization platform built for computational foundations.
-
-Engineering Scope
-
-Sorting algorithm visualization
-
-Searching algorithm visualization
-
-Random dataset generation
-
-Algorithm comparison
-
-Runtime measurement
-
-Complexity explanations
-
-Interactive learning interface
-
-Responsive dashboard-style design
-
-Implemented Algorithms
-
-Bubble Sort · Selection Sort · Insertion Sort · Merge Sort · Quick Sort
-
-Linear Search · Binary Search
-
-</details>
-
-FraudLens
-
-<details>
-<summary><b>Machine Learning Fraud Detection</b></summary>
-
-<br>
-
-FraudLens is a machine-learning project focused on detecting fraudulent transactions through data preprocessing, model development and evaluation.
-
-Engineering Scope
-
-Transaction data analysis
-
-Data preprocessing
-
-Feature handling
-
-Classification modeling
-
-Model evaluation
-
-Statistical analysis
-
-Experimentation with ML workflows
-
-</details>
-
-Campus Pulse
-
-<details>
-<summary><b>Campus Management Platform</b></summary>
-
-<br>
-
-Campus Pulse is a campus-focused application developed as a practical full-stack project.
-
-Engineering Scope
-
-Full-stack application development
-
-API integration
-
-Student-oriented workflows
-
-Data-driven features
-
-Deployment
-
-Iterative Git-based development
-
-</details>
-
-ShellForge
-
-<details>
-<summary><b>Systems Programming Project</b></summary>
-
-<br>
-
-ShellForge is an operating-systems-oriented shell project focused on understanding command execution and system-level programming concepts.
-
-Engineering Scope
-
-C programming
-
-Shell fundamentals
-
-Process execution
-
-Linux environment
-
-Systems programming concepts
-
-Git-based incremental development
-
-</details>
-
-Experience
-
-Computer Science Student
-
-Academic & Independent Engineering Projects
-
-Focused on developing practical software projects alongside coursework in computer science, artificial intelligence, machine learning, statistics and systems programming.
-
-Scope
-
-Build academic and independent software projects
-
-Apply algorithms and data structures in practical applications
-
-Develop machine-learning workflows
-
-Experiment with statistical methods
-
-Build and deploy web applications
-
-Work with Git and GitHub for version-controlled development
-
-Explore systems programming and operating-system concepts
-
-Skills: Python · Java · C · JavaScript · Machine Learning · Git · GitHub
-
-Achievements
-
-<div align="center">
-
-Recognition
-
-Details
-
-Project Development
-
-Built multiple practical software and ML projects
-
-Algorithm Engineering
-
-Developed an interactive sorting and searching visualization platform
-
-ML Application
-
-Built a fraud-detection machine-learning project
-
-Full-Stack Development
-
-Developed and deployed a campus-oriented application
-
-Systems Programming
-
-Developed an OS/shell-focused C project
-
-</div>
-
-Certifications
-
-Academic & Technical Learning
-
-Currently building a growing technical portfolio across:
-
-Artificial Intelligence
-
-Machine Learning
-
-Data Science
-
-Software Engineering
-
-Algorithms & Data Structures
-
-Systems Programming
-
-Additional provider-specific certifications will be added as they are completed.
-
-Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/luffy-loop">
-<img src="https://img.shields.io/badge/GitHub-luffy--loop-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Problem%20Solving-Algorithms-2A9D9F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-DSA-264653?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Machine%20Learning-3A7D8C?style=for-the-badge"/>
-
-</div>
-
 GitHub Streaks
 
 <div align="center">
@@ -413,30 +163,11 @@ Contribution Snake
 
 Current Focus
 
-learning:
-  - Machine Learning
-  - Artificial Intelligence
-  - Data Structures & Algorithms
-  - Statistical Analysis
-  - Systems Programming
+Learning: Machine Learning · AI · DSA · Statistical Analysis
 
-building:
-  - Machine Learning Projects
-  - Full-Stack Applications
-  - Algorithm Visualization Tools
-  - Developer Projects
+Building: ML Projects · Full-Stack Applications · Developer Tools
 
-exploring:
-  - AI Engineering
-  - Software Engineering
-  - Open Source
-  - Applied Machine Learning
-
-open_to:
-  - Software Engineering Opportunities
-  - AI/ML Projects
-  - Open Source Collaboration
-  - Technical Hackathons
+Exploring: AI Engineering · Software Engineering · Open Source
 
 Connect
 
