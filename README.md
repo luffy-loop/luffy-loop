@@ -4,88 +4,137 @@
 
 <br>
 
-# Poojasri
+Poojasri
 
-### Computer Science Student · Developer · ML Explorer
+Computer Science Student · Developer · ML Explorer
 
-Building projects in **Machine Learning, Algorithms, Systems & Web Development.**
+Building practical systems across Machine Learning, Algorithms, Systems & Web Development.
+
+Build. Learn. Experiment. Ship.
 
 </div>
 
----
+About Me
 
-# About Me
-
-I am a **Computer Science student** focused on building practical software and exploring the intersection of **software engineering, artificial intelligence, machine learning, and data-driven systems**.
+I am a Computer Science student focused on building practical software and exploring the intersection of software engineering, artificial intelligence, machine learning, and data-driven systems.
 
 My work spans algorithm visualization, machine learning, full-stack development, systems programming, and academic engineering projects.
 
 I enjoy turning concepts into working systems — from implementing algorithms and statistical models to building deployed applications and experimenting with intelligent solutions.
 
-### Engineering Interests
+Engineering Interests
 
-* Software Engineering
-* Artificial Intelligence & Machine Learning
-* Data Science & Statistical Analysis
-* Full-Stack Web Development
-* Algorithms & Data Structures
-* Systems Programming
-* Product-Oriented Development
+Software Engineering
 
-### Open To
+Artificial Intelligence & Machine Learning
 
-* Software Engineering opportunities
-* AI / ML projects
-* Open-source collaboration
-* Hackathons and technical competitions
-* Research-oriented projects
-* Building useful developer tools
+Data Science & Statistical Analysis
 
----
+Full-Stack Web Development
 
-# Tech Stack
+Algorithms & Data Structures
 
-### Languages
+Systems Programming
+
+Product-Oriented Development
+
+Open To
+
+Software Engineering opportunities
+
+AI / ML projects
+
+Open-source collaboration
+
+Hackathons and technical competitions
+
+Research-oriented projects
+
+Building useful developer tools
+
+Tech Stack
+
+Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark"/>
 </p>
 
-### Frontend
+Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 </p>
 
-### Backend & Databases
+Backend & Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,mysql&theme=dark"/>
 </p>
 
-### Cloud, DevOps & Tooling
+Cloud, DevOps & Tooling
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 </p>
 
----
+AI / ML Expertise
 
-# AI / ML Expertise
+Domain
 
-| Domain             | Proficiency                | Details                                                                |
-| ------------------ | -------------------------- | ---------------------------------------------------------------------- |
-| Machine Learning   | Developing                 | Supervised learning, model evaluation and practical ML workflows       |
-| Data Analysis      | Developing                 | Statistical analysis, correlation, covariance and exploratory analysis |
-| Regression         | Developing                 | Linear Regression and Logistic Regression                              |
-| Classification     | Developing                 | Binary classification and predictive modeling                          |
-| Data Preprocessing | Developing                 | Missing-value handling, normalization and statistical preprocessing    |
-| Model Evaluation   | Developing                 | Performance analysis and comparison of ML approaches                   |
-| Algorithms         | Strong Academic Foundation | Sorting, searching and algorithmic analysis                            |
+Proficiency
 
----
+Details
 
-# Featured Projects
+Machine Learning
+
+Developing
+
+Supervised learning, model evaluation and practical ML workflows
+
+Data Analysis
+
+Developing
+
+Statistical analysis, correlation, covariance and exploratory analysis
+
+Regression
+
+Developing
+
+Linear Regression and Logistic Regression
+
+Classification
+
+Developing
+
+Binary classification and predictive modeling
+
+Data Preprocessing
+
+Developing
+
+Missing-value handling, normalization and statistical preprocessing
+
+Model Evaluation
+
+Developing
+
+Performance analysis and comparison of ML approaches
+
+Algorithms
+
+Strong Academic Foundation
+
+Sorting, searching and algorithmic analysis
+
+Applied Work
+
+Project-Based
+
+Fraud detection, statistical analysis and interactive algorithm tooling
+
+Featured Projects
 
 <div align="center">
 
@@ -95,14 +144,8 @@ I enjoy turning concepts into working systems — from implementing algorithms a
 <td width="50%" valign="top">
 
 <h3 align="center">Synapse Studio</h3>
-
-<p align="center">
-<b>Algorithm Visualization Platform</b>
-</p>
-
-<p align="center">
-Interactive sorting and searching visualization platform built for computational foundations.
-</p>
+<p align="center"><b>Algorithms · Visualization · JavaScript</b></p>
+<p align="center">Sorting and searching algorithms turned into an interactive learning and comparison platform.</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -110,25 +153,15 @@ Interactive sorting and searching visualization platform built for computational
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/luffy-loop/Synapse_Studio">
-<img src="https://img.shields.io/badge/View%20Project-2A9D9F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<p align="center"><a href="https://github.com/luffy-loop/Synapse_Studio"><img src="https://img.shields.io/badge/View%20Project-2A9D9F?style=for-the-badge&logo=github&logoColor=white"/></a></p>
 
 </td>
 
 <td width="50%" valign="top">
 
 <h3 align="center">FraudLens</h3>
-
-<p align="center">
-<b>Machine Learning Fraud Detection</b>
-</p>
-
-<p align="center">
-Machine-learning project focused on detecting fraudulent transactions through data analysis and classification.
-</p>
+<p align="center"><b>Machine Learning · Data Analysis · Classification</b></p>
+<p align="center">A practical ML workflow for transaction analysis, preprocessing, classification and model evaluation.</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -136,11 +169,7 @@ Machine-learning project focused on detecting fraudulent transactions through da
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/luffy-loop/FraudLens">
-<img src="https://img.shields.io/badge/View%20Project-2A9D9F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<p align="center"><a href="https://github.com/luffy-loop/FraudLens"><img src="https://img.shields.io/badge/View%20Project-2A9D9F?style=for-the-badge&logo=github&logoColor=white"/></a></p>
 
 </td>
 
@@ -151,14 +180,8 @@ Machine-learning project focused on detecting fraudulent transactions through da
 <td width="50%" valign="top">
 
 <h3 align="center">Campus Pulse</h3>
-
-<p align="center">
-<b>Campus Management Platform</b>
-</p>
-
-<p align="center">
-A practical full-stack platform designed around campus-oriented workflows and student needs.
-</p>
+<p align="center"><b>Full-Stack · APIs · Deployment</b></p>
+<p align="center">A campus-focused application built around student workflows, API integration and deployment.</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Full--Stack-2A9D9F?style=flat-square"/>
@@ -166,25 +189,15 @@ A practical full-stack platform designed around campus-oriented workflows and st
 <img src="https://img.shields.io/badge/Deployed-22C55E?style=flat-square"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/luffy-loop">
-<img src="https://img.shields.io/badge/View%20Project-2A9D9F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<p align="center"><a href="https://github.com/luffy-loop"><img src="https://img.shields.io/badge/View%20Project-2A9D9F?style=for-the-badge&logo=github&logoColor=white"/></a></p>
 
 </td>
 
 <td width="50%" valign="top">
 
 <h3 align="center">ShellForge</h3>
-
-<p align="center">
-<b>Systems Programming Project</b>
-</p>
-
-<p align="center">
-Operating-systems project exploring shell concepts, command execution and systems programming using C.
-</p>
+<p align="center"><b>C · Linux · Systems Programming</b></p>
+<p align="center">A systems project exploring shell fundamentals, process execution and operating-system concepts.</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
@@ -192,11 +205,7 @@ Operating-systems project exploring shell concepts, command execution and system
 <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/luffy-loop">
-<img src="https://img.shields.io/badge/View%20Project-2A9D9F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<p align="center"><a href="https://github.com/luffy-loop"><img src="https://img.shields.io/badge/View%20Project-2A9D9F?style=for-the-badge&logo=github&logoColor=white"/></a></p>
 
 </td>
 
@@ -205,188 +214,279 @@ Operating-systems project exploring shell concepts, command execution and system
 
 </div>
 
----
-
-# Synapse Studio
+Synapse Studio
 
 <details>
 <summary><b>Algorithm Visualization Platform</b></summary>
 
 <br>
 
-**Synapse Studio** is an interactive algorithm visualization platform built for computational foundations.
+Synapse Studio is an interactive algorithm visualization platform built for computational foundations.
 
-### Engineering Scope
+Engineering Scope
 
-* Sorting algorithm visualization
-* Searching algorithm visualization
-* Random dataset generation
-* Algorithm comparison
-* Runtime measurement
-* Complexity explanations
-* Interactive learning interface
-* Responsive dashboard-style design
+Sorting algorithm visualization
 
-### Implemented Algorithms
+Searching algorithm visualization
 
-**Bubble Sort** · **Selection Sort** · **Insertion Sort** · **Merge Sort** · **Quick Sort**
+Random dataset generation
 
-**Linear Search** · **Binary Search**
+Algorithm comparison
+
+Runtime measurement
+
+Complexity explanations
+
+Interactive learning interface
+
+Responsive dashboard-style design
+
+Implemented Algorithms
+
+Bubble Sort · Selection Sort · Insertion Sort · Merge Sort · Quick Sort
+
+Linear Search · Binary Search
 
 </details>
 
----
-
-# FraudLens
+FraudLens
 
 <details>
 <summary><b>Machine Learning Fraud Detection</b></summary>
 
 <br>
 
-**FraudLens** is a machine-learning project focused on detecting fraudulent transactions through data preprocessing, model development and evaluation.
+FraudLens is a machine-learning project focused on detecting fraudulent transactions through data preprocessing, model development and evaluation.
 
-| Attribute   | Details                                                                |
-| ----------- | ---------------------------------------------------------------------- |
-| Stack       | Python, Pandas, Scikit-learn                                           |
-| Scale       | Machine-learning classification workflow                               |
-| Performance | Model-based predictive classification                                  |
-| Security    | Fraud-oriented predictive analysis                                     |
-| Impact      | Demonstrates practical application of ML to financial transaction data |
-| Repository  | [FraudLens](https://github.com/luffy-loop/FraudLens)                   |
+Attribute
 
-### Engineering Scope
+Details
 
-* Transaction data analysis
-* Data preprocessing
-* Feature handling
-* Classification modeling
-* Model evaluation
-* Statistical analysis
-* Experimentation with ML workflows
+Stack
+
+Python, Pandas, Scikit-learn
+
+Scale
+
+Machine-learning classification workflow
+
+Performance
+
+Model-based predictive classification
+
+Security
+
+Fraud-oriented predictive analysis
+
+Impact
+
+Demonstrates practical application of ML to financial transaction data
+
+Repository
+
+FraudLens
+
+Engineering Scope
+
+Transaction data analysis
+
+Data preprocessing
+
+Feature handling
+
+Classification modeling
+
+Model evaluation
+
+Statistical analysis
+
+Experimentation with ML workflows
 
 </details>
 
----
-
-# Campus Pulse
+Campus Pulse
 
 <details>
 <summary><b>Campus Management Platform</b></summary>
 
 <br>
 
-**Campus Pulse** is a campus-focused application developed as a practical full-stack project.
+Campus Pulse is a campus-focused application developed as a practical full-stack project.
 
-| Attribute   | Details                                                            |
-| ----------- | ------------------------------------------------------------------ |
-| Stack       | Web technologies and API-based application architecture            |
-| Scale       | Full-stack application                                             |
-| Performance | Deployed web application                                           |
-| Security    | API-driven data access                                             |
-| Impact      | Provides a practical digital platform for campus-related workflows |
-| Repository  | [GitHub](https://github.com/luffy-loop)                            |
+Attribute
 
-### Engineering Scope
+Details
 
-* Full-stack application development
-* API integration
-* Student-oriented workflows
-* Data-driven features
-* Deployment
-* Iterative Git-based development
+Stack
+
+Web technologies and API-based application architecture
+
+Scale
+
+Full-stack application
+
+Performance
+
+Deployed web application
+
+Security
+
+API-driven data access
+
+Impact
+
+Provides a practical digital platform for campus-related workflows
+
+Repository
+
+GitHub
+
+Engineering Scope
+
+Full-stack application development
+
+API integration
+
+Student-oriented workflows
+
+Data-driven features
+
+Deployment
+
+Iterative Git-based development
 
 </details>
 
----
-
-# ShellForge
+ShellForge
 
 <details>
 <summary><b>Systems Programming Project</b></summary>
 
 <br>
 
-**ShellForge** is an operating-systems-oriented shell project focused on understanding command execution and system-level programming concepts.
+ShellForge is an operating-systems-oriented shell project focused on understanding command execution and system-level programming concepts.
 
-| Attribute   | Details                                                          |
-| ----------- | ---------------------------------------------------------------- |
-| Stack       | C, Linux, WSL                                                    |
-| Scale       | Systems programming project                                      |
-| Performance | Native command-line execution                                    |
-| Security    | OS-level process and command concepts                            |
-| Impact      | Practical exploration of shell and operating-system fundamentals |
-| Repository  | [GitHub](https://github.com/luffy-loop)                          |
+Attribute
 
-### Engineering Scope
+Details
 
-* C programming
-* Shell fundamentals
-* Process execution
-* Linux environment
-* Systems programming concepts
-* Git-based incremental development
+Stack
+
+C, Linux, WSL
+
+Scale
+
+Systems programming project
+
+Performance
+
+Native command-line execution
+
+Security
+
+OS-level process and command concepts
+
+Impact
+
+Practical exploration of shell and operating-system fundamentals
+
+Repository
+
+GitHub
+
+Engineering Scope
+
+C programming
+
+Shell fundamentals
+
+Process execution
+
+Linux environment
+
+Systems programming concepts
+
+Git-based incremental development
 
 </details>
 
----
+Experience
 
-# Experience
+Computer Science Student
 
-### Computer Science Student
-
-**Academic & Independent Engineering Projects**
+Academic & Independent Engineering Projects
 
 Focused on developing practical software projects alongside coursework in computer science, artificial intelligence, machine learning, statistics and systems programming.
 
-### Scope
+Scope
 
-* Build academic and independent software projects
-* Apply algorithms and data structures in practical applications
-* Develop machine-learning workflows
-* Experiment with statistical methods
-* Build and deploy web applications
-* Work with Git and GitHub for version-controlled development
-* Explore systems programming and operating-system concepts
+Build academic and independent software projects
 
-**Skills:** `Python` · `Java` · `C` · `JavaScript` · `Machine Learning` · `Git` · `GitHub`
+Apply algorithms and data structures in practical applications
 
----
+Develop machine-learning workflows
 
-# Achievements
+Experiment with statistical methods
+
+Build and deploy web applications
+
+Work with Git and GitHub for version-controlled development
+
+Explore systems programming and operating-system concepts
+
+Skills: Python · Java · C · JavaScript · Machine Learning · Git · GitHub
+
+Achievements
 
 <div align="center">
 
-| Recognition            | Details                                                               |
-| ---------------------- | --------------------------------------------------------------------- |
-| Project Development    | Built multiple practical software and ML projects                     |
-| Algorithm Engineering  | Developed an interactive sorting and searching visualization platform |
-| ML Application         | Built a fraud-detection machine-learning project                      |
-| Full-Stack Development | Developed and deployed a campus-oriented application                  |
-| Systems Programming    | Developed an OS/shell-focused C project                               |
+Recognition
+
+Details
+
+Project Development
+
+Built multiple practical software and ML projects
+
+Algorithm Engineering
+
+Developed an interactive sorting and searching visualization platform
+
+ML Application
+
+Built a fraud-detection machine-learning project
+
+Full-Stack Development
+
+Developed and deployed a campus-oriented application
+
+Systems Programming
+
+Developed an OS/shell-focused C project
 
 </div>
 
----
+Certifications
 
-# Certifications
-
-### Academic & Technical Learning
+Academic & Technical Learning
 
 Currently building a growing technical portfolio across:
 
-* Artificial Intelligence
-* Machine Learning
-* Data Science
-* Software Engineering
-* Algorithms & Data Structures
-* Systems Programming
+Artificial Intelligence
 
-> Additional provider-specific certifications will be added as they are completed.
+Machine Learning
 
----
+Data Science
 
-# Coding Profiles
+Software Engineering
+
+Algorithms & Data Structures
+
+Systems Programming
+
+Additional provider-specific certifications will be added as they are completed.
+
+Coding Profiles
 
 <div align="center">
 
@@ -402,9 +502,7 @@ Currently building a growing technical portfolio across:
 
 </div>
 
----
-
-# GitHub Streaks
+GitHub Streaks
 
 <div align="center">
 
@@ -412,9 +510,7 @@ Currently building a growing technical portfolio across:
 
 </div>
 
----
-
-# Contribution Activity
+Contribution Activity
 
 <div align="center">
 
@@ -422,9 +518,7 @@ Currently building a growing technical portfolio across:
 
 </div>
 
----
-
-# Contribution Snake
+Contribution Snake
 
 <div align="center">
 
@@ -432,11 +526,8 @@ Currently building a growing technical portfolio across:
 
 </div>
 
----
+Current Focus
 
-# Current Focus
-
-```text
 learning:
   - Machine Learning
   - Artificial Intelligence
@@ -461,11 +552,8 @@ open_to:
   - AI/ML Projects
   - Open Source Collaboration
   - Technical Hackathons
-```
 
----
-
-# Connect
+Connect
 
 <div align="center">
 
@@ -479,7 +567,7 @@ open_to:
 
 <div align="center">
 
-### Build. Learn. Experiment. Ship.
+Build. Learn. Experiment. Ship.
 
 <br>
 
