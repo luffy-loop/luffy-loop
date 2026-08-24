@@ -404,17 +404,11 @@ Currently building a growing technical portfolio across:
 
 ---
 
-# GitHub Analytics
+# GitHub Streaks
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=luffy-loop&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7BC8C4&icon_color=2A9D9F&text_color=CBD5E1&ring_color=2A9D9F" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffy-loop&layout=compact&hide_border=true&bg_color=0D1117&title_color=7BC8C4&text_color=CBD5E1" height="180"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=luffy-loop&theme=dark&hide_border=true&background=0D1117&ring=2A9D9F&fire=7BC8C4&currStreakLabel=7BC8C4" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=luffy-loop&theme=dark&hide_border=true&background=0D1117&ring=2A9D9F&fire=7BC8C4&currStreakLabel=7BC8C4&sideLabels=CBD5E1&currStreakNum=7BC8C4&sideNums=CBD5E1" width="80%"/>
 
 </div>
 
