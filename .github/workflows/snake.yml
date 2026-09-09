@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: luffy-loop
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=E9B39A&color_dots=18232D;6E2D16;8F3D18;B95422;D66A32
+            dist/github-contribution-grid-snake-dark.svg?color_snake=E9B39A&color_dots=18232D;6E2D16;8F3D18;B95422;D66A32
 
       - name: Publish Snake
         uses: peaceiris/actions-gh-pages@v4
