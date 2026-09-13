@@ -8,7 +8,7 @@
 
 <br>
 
-# Hey there, I'm Poojasri 👋
+# Hey there, I'm Poojasri - Welcome to Luffy-Loop!
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=E9B39A&center=true&vCenter=true&width=700&lines=Software+Engineering;AI%2FML+%26+Data-Driven+Systems;Open+Source+%26+Building+Projects;Always+Learning.+Always+Building." alt="Typing introduction">
 
