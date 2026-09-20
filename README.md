@@ -4,7 +4,7 @@
 
 # Hey, I'm Poojasri
 
-Computer Science student building practical software across **software engineering, AI/ML, algorithms, and systems programming**.
+Computer Science student building practical software across **full-stack development, AI/ML, algorithms, and systems**.
 
 [GitHub](https://github.com/luffy-loop) · [LinkedIn](https://www.linkedin.com/in/poojasri-reddy/) · [Email](mailto:poojasrikandhula@gmail.com)
 
@@ -14,33 +14,38 @@ Computer Science student building practical software across **software engineeri
 
 ## About
 
-I like taking ideas from a rough concept to a working project. My current work combines application development with machine learning, algorithms, and low-level systems.
+I like taking ideas from a rough concept to a working project. I learn by building, breaking, debugging, and shipping projects across different areas of computer science.
 
-- Building practical software and developer tools
-- Learning machine learning and AI engineering
+- Building full-stack applications and developer tools
+- Exploring machine learning and AI engineering
 - Practicing algorithms and data structures
-- Exploring systems programming with C and Linux
-- Improving projects through testing, documentation, and deployment
+- Working with C, Linux, and operating-system concepts
+- Learning through projects, experiments, and coursework
 
 ## Tech
 
-**Languages:** Python · Java · C · JavaScript · HTML · CSS
+**Languages:** Python · Java · C · JavaScript · TypeScript · HTML · CSS
 
-**Tools & Technologies:** Git · GitHub · Linux · Node.js · MySQL · VS Code · Machine Learning · Data Analysis
+**Tools & Technologies:** Git · GitHub · Linux · Node.js · Next.js · Flask · PostgreSQL · MySQL · scikit-learn
 
 ---
 
 ## Featured Projects
 
+### [GEO_SUTRA-SIH](https://github.com/luffy-loop/GEO_SUTRA-SIH)
+**Next.js · TypeScript · Tailwind CSS · Geofencing**
+
+Sutra-Geo, a Smart India Hackathon project built around geofenced heritage discovery, AR micro-quests, rewards, local artisans, and community-sourced stories.
+
+### [DBMS_LMS](https://github.com/luffy-loop/DBMS_LMS)
+**TypeScript · Vite · Backend · Database Systems**
+
+Distributed learning management system focused on scalable backend architecture, course management, assessments, AI-assisted learning, and database integration.
+
 ### [FraudLens](https://github.com/luffy-loop/FraudLens)
-**Machine Learning · Python · scikit-learn · SHAP**
+**Python · scikit-learn · SHAP · Machine Learning**
 
-Credit-card fraud detection project focused on class imbalance, model evaluation, threshold analysis, explainability, testing, and deployment.
-
-### [Synapse Studio](https://github.com/luffy-loop/Synapse_Studio)
-**JavaScript · HTML · CSS · Algorithms**
-
-Interactive algorithm learning and visualization platform covering sorting, searching, comparisons, datasets, and an interactive graph lab.
+Credit-card fraud detection project focused on class imbalance, model evaluation, threshold analysis, explainability, and deployment.
 
 ### [OS Project](https://github.com/luffy-loop/OS_Project)
 **C · Linux · Operating Systems**
@@ -53,24 +58,9 @@ ShellForge, a progressively developed Unix-style shell exploring processes, buil
 Student complaint-management application designed around practical campus workflows, tracking, and backend integration.
 
 ### [DSA-A6](https://github.com/luffy-loop/DSA-A6)
-**Java · Algorithms**
+**Java · Algorithms · Dynamic Programming**
 
-Implementation-focused collection covering pattern matching, dynamic programming, and graph algorithms.
-
-### [Machine Learning](https://github.com/luffy-loop/Machine_Learning)
-**Python · Data Science · ML**
-
-Course and experimentation repository covering core machine-learning concepts, preprocessing, models, evaluation, and related exercises.
-
-### [Wanderly](https://github.com/luffy-loop/Wanderly)
-**Web Development**
-
-Flight-booking application project focused on frontend interaction and application workflows.
-
-### [FrameBox](https://github.com/luffy-loop/FrameBox)
-**Web Development**
-
-Movie-discovery application built as a practical frontend project.
+Implementation-focused collection covering pattern matching, dynamic programming, string algorithms, and other core DSA concepts.
 
 ---
 
@@ -78,15 +68,17 @@ Movie-discovery application built as a practical frontend project.
 
 | Learning | Building | Exploring |
 |---|---|---|
-| Machine Learning | AI projects | AI engineering |
-| DSA | Developer tools | Systems |
-| Software Engineering | Full-stack applications | Open source |
+| Machine Learning | Full-stack applications | AI engineering |
+| DSA | SIH projects | Systems |
+| Software Engineering | Developer tools | Open source |
 
 ---
 
 ## GitHub
 
 I use GitHub as a working record of projects, experiments, coursework, and the things I'm learning along the way.
+
+Older experiments are kept archived as part of that progression.
 
 <div align="center">
 
