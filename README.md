@@ -32,11 +32,6 @@ I like taking ideas from a rough concept to a working project. I learn by buildi
 
 ## Featured Projects
 
-### [GEO_SUTRA-SIH](https://github.com/luffy-loop/GEO_SUTRA-SIH)
-**Next.js · TypeScript · Tailwind CSS · Geofencing**
-
-Sutra-Geo, a Smart India Hackathon project built around geofenced heritage discovery, AR micro-quests, rewards, local artisans, and community-sourced stories.
-
 ### [DBMS_LMS](https://github.com/luffy-loop/DBMS_LMS)
 **TypeScript · Vite · Backend · Database Systems**
 
